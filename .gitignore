@@ -2,4 +2,4 @@
 !.gitignore
 !readme.txt
 !*.cpp
-!array-string/*.cpp
+!/array-string/*.cpp
